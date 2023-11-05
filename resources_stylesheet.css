@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+    color: white;
+}
+
+:link{
+    color: #ffed87;
+    font-weight: bold;
+    font-size: larger;
+}
+:visited{
+    color: #ffed87;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.area1, .area2, .area3{
+    margin: 10px 0px;
+    border: 4px solid #1bb51d;
+    padding: 20px;
+    background-color: #1f8f73;
+}
+
+h1{
+    color: #217ab2;
+    text-shadow: 2px 2px 2px black;
+    font: Tahoma;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    border: 1px solid #7cfc00;
+}
+
+img{
+    margin: 20px;
+}
